@@ -1,16 +1,32 @@
-## Hi there 👋
+👨‍💻 Javier Alejandro López Arcila
+Full Stack Developer | Frontend Specialist | Electronic Engineer
 
-<!--
-**alejolopezar/alejolopezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about technology, innovation, and process automation.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Electronic Engineer and Full Stack Developer focused on building scalable, efficient, and user-centered digital solutions. My main expertise is in frontend development, where I enjoy creating intuitive, modern, and high-performance interfaces.
+
+I also have experience in backend development, API integration, databases, and automation processes, allowing me to build complete end-to-end applications.
+
+🛠 Tech Stack
+Frontend
+JavaScript (ES6+)
+React.js
+HTML5
+CSS3
+Tailwind CSS
+Backend
+Node.js
+Express.js
+PostgreSQL
+Sequelize
+Git
+GitHub
+Postman
+Figma
+
+📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/javier-alejandro-l%C3%B3pez-arcila-b6b31b250
+
+⚡ Building technology with purpose, creativity, and innovation.
